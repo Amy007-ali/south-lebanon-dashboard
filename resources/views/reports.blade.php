@@ -9,8 +9,9 @@
 
     <div class="bg-white rounded-xl shadow-md overflow-hidden mb-10">
 
-        <div class="p-6 border-b">
-            <h3 class="text-xl font-bold">Village Reports</h3>
+        <div class="bg-white p-6 rounded-xl shadow-md mb-8">
+            <h3 class="text-xl font-bold mb-2">Reports Summary</h3>
+            <p class="text-gray-600 mb-2">Review the latest information reported for monitored villages.</p>
         </div>
 
         <div class="overflow-x-auto">
