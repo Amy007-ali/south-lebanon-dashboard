@@ -11,7 +11,7 @@
 
         <div class="bg-white p-6 rounded-xl shadow-md mb-8">
             <h3 class="text-xl font-bold mb-2">Reports Summary</h3>
-            <p class="text-gray-600">Review the latest information reported for monitored villages.</p>
+            <p class="text-gray-600 mb-2">Review the latest information reported for monitored villages.</p>
         </div>
 
         <div class="overflow-x-auto">
