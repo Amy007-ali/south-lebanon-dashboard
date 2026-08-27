@@ -14,7 +14,6 @@
                 <a href="/" class="hover:text-gray-300 transition">Home</a>
                 <a href="/villages" class="hover:text-gray-300 transition">Villages</a>
                 <a href="/about" class="hover:text-gray-300 transition">About</a>
-                <a href="/reports" class="hover:text-gray-300 transition">Reports</a>
             </nav>
         </div>
     </header>
